@@ -1,0 +1,13 @@
+C:\Users\jamesh\CIT 110\TheExpertSystemFinished\bin\Debug\netcoreapp3.1\TheExpertSystemFinished.exe
+C:\Users\jamesh\CIT 110\TheExpertSystemFinished\bin\Debug\netcoreapp3.1\TheExpertSystemFinished.deps.json
+C:\Users\jamesh\CIT 110\TheExpertSystemFinished\bin\Debug\netcoreapp3.1\TheExpertSystemFinished.runtimeconfig.json
+C:\Users\jamesh\CIT 110\TheExpertSystemFinished\bin\Debug\netcoreapp3.1\TheExpertSystemFinished.runtimeconfig.dev.json
+C:\Users\jamesh\CIT 110\TheExpertSystemFinished\bin\Debug\netcoreapp3.1\TheExpertSystemFinished.dll
+C:\Users\jamesh\CIT 110\TheExpertSystemFinished\bin\Debug\netcoreapp3.1\TheExpertSystemFinished.pdb
+C:\Users\jamesh\CIT 110\TheExpertSystemFinished\obj\Debug\netcoreapp3.1\TheExpertSystemFinished.csprojAssemblyReference.cache
+C:\Users\jamesh\CIT 110\TheExpertSystemFinished\obj\Debug\netcoreapp3.1\TheExpertSystemFinished.AssemblyInfoInputs.cache
+C:\Users\jamesh\CIT 110\TheExpertSystemFinished\obj\Debug\netcoreapp3.1\TheExpertSystemFinished.AssemblyInfo.cs
+C:\Users\jamesh\CIT 110\TheExpertSystemFinished\obj\Debug\netcoreapp3.1\TheExpertSystemFinished.csproj.CoreCompileInputs.cache
+C:\Users\jamesh\CIT 110\TheExpertSystemFinished\obj\Debug\netcoreapp3.1\TheExpertSystemFinished.dll
+C:\Users\jamesh\CIT 110\TheExpertSystemFinished\obj\Debug\netcoreapp3.1\TheExpertSystemFinished.pdb
+C:\Users\jamesh\CIT 110\TheExpertSystemFinished\obj\Debug\netcoreapp3.1\TheExpertSystemFinished.genruntimeconfig.cache
